@@ -1,4 +1,4 @@
-body{
+4thbody{
 margin:0;
 font-family:Segoe UI, sans-serif;
 background:#f4f6f8;
@@ -77,4 +77,9 @@ background:#003300;
 color:white;
 text-align:center;
 padding:10px;
-                                }
+                       body{
+  font-family: 'Poppins', sans-serif;
+  background:#f5f7fa;
+  margin:0;
+  padding:0;
+}         }
